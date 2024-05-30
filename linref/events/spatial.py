@@ -12,7 +12,7 @@ ParallelProjector
 
 Dependencies
 ------------
-pandas, numpy, copy, warnings, functools
+pandas, geopandas, numpy, copy, warnings, functools
 
 
 Development
