@@ -1,1 +1,5 @@
-1. why manage Routes as MultiLineString
+1. gaps and overlaps in measures?
+2. why manage Routes as MultiLineString
+3. overlay along measured values
+
+
